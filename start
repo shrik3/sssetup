@@ -1,5 +1,6 @@
 #!/bin/sh
 #modify the folowing line and then run this file to start
 #make sure the port is allowed by your firewall
-nohup /usr/local/bin/ss-server -s [your server ip] -p [your port(recommended :8388)] -k [password] -m aes-256-cfb
+nohup /usr/local/bin/ss-server -s [your server ip] -p [your port(recommended :8388)] -k [password] -m aes-256-cfb &
+
 
