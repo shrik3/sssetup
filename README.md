@@ -1,7 +1,7 @@
 # sssetup
 quick setup of ss server
 ## set up your server
-`git clone git@github.com:shrik3/sssetup.git`
+`git clone https://github.com/shrik3/sssetup.git`
 `cd sssetup`
 `./setup`
 
